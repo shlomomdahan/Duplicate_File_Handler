@@ -1,1 +1,1 @@
-Repository for Jetbrains projects
+Project to delete duplicate files
