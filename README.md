@@ -1,1 +1,1 @@
-Project to delete duplicate files
+Project to delete duplicate files!
